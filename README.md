@@ -142,6 +142,12 @@ Public historical weather data is retrieved using the Open-Meteo archive API.
 
 The public weather data is used to investigate whether publicly available weather information can be used instead of on-site sensor measurements for solar power prediction.
 
+## Front End Interface
+<img width="968" height="757" alt="Screenshot 2026-09-15 200853" src="https://github.com/user-attachments/assets/7d609a80-627e-4460-af89-048a3b86be9c" />
+
+
+
+
 ## Project Conclusion
 
 The project compares different regression methods and investigates the effect of replacing on-site weather measurements with public weather data.
