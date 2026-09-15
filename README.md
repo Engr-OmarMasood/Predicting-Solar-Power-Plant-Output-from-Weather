@@ -55,7 +55,7 @@ pip install numpy pandas matplotlib requests
 Open the notebook:
 
 ```text
-AML (1)(1).ipynb
+Jupyter Notebook w Outputs.ipynb
 ```
 
 using Jupyter Notebook or VS Code.
